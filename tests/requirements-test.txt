@@ -1,0 +1,5 @@
+pytest==7.1.2
+pytest-mock==3.8.2
+opencv-python-headless==4.5.5.64
+numpy==1.21.6
+Pillow==9.1.1
